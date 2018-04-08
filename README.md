@@ -102,6 +102,14 @@ ifsc.validate('KKBK0000261'); // returns true
 ifsc.validate('BOTM0XEEMRA'); // returns false
 ```
 
+### Python
+```python
+import ifsc
+
+ifsc.validate('KKBK000261')  // True
+ifsc.validate('BOTM0XEEMRA')  // False
+```
+
 ### Ruby
 
 Make sure you have `require 'ifsc'` in your code.
