@@ -27,3 +27,5 @@ erl_crash.dump
 *.ez
 /priv/ifsc-data/
 mix.lock
+src/python/__pycache__
+tests/python/__pycache__
